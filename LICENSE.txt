@@ -2,9 +2,17 @@ Copyright (c) 2023 WugtheFlunk, as licensee of Eric Monti
 ------------------------------
 Modified MIT License
 ------------------------------
-Software hereby utilized, pursuant to that certain License incorporated herein as Appendix "A". The entirety of this Agreement will be refered to herein as, the "Licensing Agreement". All original rights of WugtheFlunk to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software as granted therein are hereby reserved.
+Software hereby utilized, pursuant to that certain License incorporated
+herein as Appendix "A". The entirety of this Agreement will be refered to
+herein as, the "Licensing Agreement". All original rights of WugtheFlunk
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the software as granted therein are hereby reserved.
 
-The entire contents of this LICENSE.txt text-file shall be included in all copies or substantial portions of the Software, or third-party code ("Other Software") which utilizes material funcionalities, libraries, coding and programmatic design of the Software such that without the Software, the Other Software would not be substantially unique and distinct from the Other Software.
+The entire contents of this LICENSE.txt text-file shall be included in all
+copies or substantial portions of the Software, or third-party code
+("Other Software") which utilizes material funcionalities, libraries, coding
+and programmatic design of the Software such that without the Software, the
+Other Software would not be substantially unique and distinct from it.
 
 --------------------------------------------------------------------
 USE AT YOUR OWN RISK
