@@ -1,10 +1,18 @@
 afcclient
 =========
 
+<<<<<<< HEAD
 A simple CLI interface to AFC via libimobiledevice.
 
 
 ## Requirements
+=======
+A simple CLI interface to AFC via libimobiledevice by Eric Monti.
+Adapted to run on Ubuntu 22.10, Linux 6.2.12 x86_64 (2023) using particular versions of various dependencies as part of a broader project by WugtheFlunk. See LICENSE.txt for further details.
+
+
+## Requirements - TBD
+>>>>>>> 7c9ff3c51b3e6b49fb81d74d27531e3605b8d65d
 
 - libimobiledevice (v 1.1.5+)
   https://github.com/libimobiledevice/libimobiledevice
@@ -45,6 +53,7 @@ Usage: afcclient [rs:c:d:u:vh] command cmdargs...
 ## Known Issues / TODO
 
 - listing output is fugly
+<<<<<<< HEAD
 
 ## Author
 
@@ -54,3 +63,5 @@ Eric Monti - esmonti at gmail dot com
 ## License
 
 MIT - See LICENSE.txt
+=======
+>>>>>>> 7c9ff3c51b3e6b49fb81d74d27531e3605b8d65d
