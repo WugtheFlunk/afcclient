@@ -62,5 +62,3 @@ Eric Monti - esmonti at gmail dot com
 ## License
 
 MIT - See LICENSE.txt
-=======
->>>>>>> 7c9ff3c51b3e6b49fb81d74d27531e3605b8d65d
